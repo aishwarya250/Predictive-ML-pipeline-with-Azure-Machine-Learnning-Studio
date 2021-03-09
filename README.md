@@ -8,8 +8,7 @@ The Machine Learning model built on Azure ML studio, predicts the Adult income c
 
 Two images below are the ML studio pipelines
 #### The training experiment
-![Training experiment](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/master/Images/training.jpeg)
-
+![Training experiment](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/main/Images/training.jpeg)
 #### The predictive experiment (web service)
 ![Web service](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/master/Images/webservice.jpeg)
 
