@@ -1,4 +1,4 @@
-# End-to-End-Azure-ML-pipeline
+# Azure-ML-pipeline
 
 ## A sample End to End Azure ML pipeline deployed on heroku.
 
