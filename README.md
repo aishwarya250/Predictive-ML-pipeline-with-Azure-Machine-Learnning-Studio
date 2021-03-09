@@ -8,10 +8,10 @@ The Machine Learning model built on Azure ML studio, predicts the Adult income c
 
 Two images below are the ML studio pipelines
 #### The training experiment
-![Training experiment](https://github.com/rajtulluri/End-to-End-Azure-ML-pipeline/blob/master/Images/training.jpeg)
+![Training experiment](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/master/Images/training.jpeg)
 
 #### The predictive experiment (web service)
-![Web service](https://github.com/rajtulluri/End-to-End-Azure-ML-pipeline/blob/master/Images/webservice.jpeg)
+![Web service](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/master/Images/webservice.jpeg)
 
 The Web service offered by Azure is a paid service, hence the API no longer exists. Please create your own Azure Web service based on the image and save the URL and API key in the respective files under resources folder.
 
