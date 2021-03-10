@@ -12,7 +12,7 @@ Two images below are the ML studio pipelines
 #### The predictive experiment (web service)
 ![Web service](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/main/Images/web%20service.jpeg)
 #### web API 
-![web API]()
+![web API](https://github.com/aishwarya250/Predictive-Machine-Learning-pipeline-with-Azure-ML-Studio/blob/main/web%20API.png)
 The Web service offered by Azure is a paid service, hence the API no longer exists. Please create your own Azure Web service based on the image and save the URL and API key in the respective files under resources folder.
 
 ### Dash app (python)
